@@ -25,6 +25,7 @@
     "autoprefixer": "^10.0.2",
     "babel-plugin-preval": "^5.0.0",
     "brotli-size": "^4.0.0",
+    "classnames": "^2.2.6",
     "clean-css": "^4.2.3",
     "clsx": "^1.1.1",
     "deasync": "^0.1.20",
